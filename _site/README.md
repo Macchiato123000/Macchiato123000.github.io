@@ -1,4 +1,4 @@
-# PanelCV
+# Personal Site
 
 The site is about myself.
 
